@@ -19,8 +19,11 @@ lastupdated: "2017-06-16"
 {:tip: .tip}
 {:pre: .pre}
 
-#Getting started with dashDB
+#Getting started with dashDB and Db2 on Cloud
 {: #dashDB}
+
+NOTE: {{site.data.keyword.IBM}} is renaming dashDB for Transactions to Db2 on Cloud. [See the announcement here. ![External link icon](../../icons/launch-glyph.svg "External link icon")](http://ibm.biz/db2rebrandblog){:new_window} Over the coming weeks, you will notice that our documentation will begin to reflect this change. Until then, keep in mind that dashDB for Transactions is equivalent to Db2 on Cloud in this documentation.
+{: shortdesc}
 
 {{site.data.keyword.IBM}} {{site.data.keyword.dashdbshort}} managed service is an SQL database provisioned for you in the cloud. You can use {{site.data.keyword.dashdbshort_notm}} just as you would use any database software, but without the overhead and expense of hardware setup or software installation and maintenance. 
 {: shortdesc}
