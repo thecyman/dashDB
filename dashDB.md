@@ -22,6 +22,9 @@ lastupdated: "2017-06-16"
 #Getting started with dashDB
 {: #dashDB}
 
+For additional information about Db2 on Cloud's new capabilities and relevant documentation, visit [this dwAnswers post ![External link icon](../../icons/launch-glyph.svg "External link icon")](https://ibm.biz/db2oncloud-features){:new_window}.
+{: shortdesc}
+
 {{site.data.keyword.IBM}} {{site.data.keyword.dashdbshort}} managed service is an SQL database provisioned for you in the cloud. You can use {{site.data.keyword.dashdbshort_notm}} just as you would use any database software, but without the overhead and expense of hardware setup or software installation and maintenance. 
 {: shortdesc}
 
